@@ -20,3 +20,18 @@ Repo służy jako baza do dalszej analizy topologicznej, fizycznej i informacyjn
 
 ## Struktura repo
 
+
+## Opis interferencji
+
+Interferencja 2MASS + ROSAT ujawnia:
+- potrójne punkty w równych odstępach pod osią galaktyczną,
+- centralny punkt skrętu (Sagittarius A\*),
+- dwa przeciwne łuki energii (halo X),
+- węzły korelacji masy i energii,
+- strukturę toroidalną przypominającą Möbiusa.
+
+## ASCII — uproszczony schemat
+
+## Licencja
+MIT
+
