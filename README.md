@@ -94,3 +94,36 @@ Nie jest to efekt graficzny, lecz wynik:
 
 Struktura ta jest kluczowa dla interpretacji mapy jako układu toroidalnego
 z dwoma przeciwnymi polami energetycznymi.
+## Topologiczna interpretacja interferencji
+
+Interferencja map 2MASS (masa) i ROSAT (energia X) ujawnia strukturę,
+która najlepiej daje się opisać językiem topologii. Dane nie układają się
+w przypadkowe plamy, lecz w spójny układ o cechach toroidalnych.
+
+Najważniejsze elementy topologiczne:
+
+### 1. Dwa płaty energii — struktura dipolowa
+Halo X widoczne nad i pod płaszczyzną galaktyczną tworzy dwa płaty
+o niemal identycznym kształcie. Jest to naturalna cecha układów
+toroidalnych, w których energia rozchodzi się w dwóch przeciwnych
+kierunkach.
+
+### 2. Punkt skrętu w centrum (Möbiuso‑Torus)
+W centrum interferencji znajduje się obszar, w którym zmienia się
+orientacja pól. W modelu topologicznym odpowiada to punktowi skrętu
+charakterystycznemu dla powierzchni Möbiusa. To miejsce łączy oba płaty
+w jedną całość.
+
+### 3. Obrócony symbol nieskończoności (∞)
+Układ dwóch płatów oraz centralnego punktu skrętu tworzy figurę
+przypominającą obrócony symbol nieskończoności. Nie jest to efekt
+graficzny, lecz wynik toroidalnej geometrii i symetrii północ–południe.
+
+### 4. Pas galaktyczny jako mostek
+Płaszczyzna galaktyczna pełni rolę mostka łączącego oba płaty energii.
+W topologii odpowiada to „przewężeniu” torusa, które stabilizuje układ.
+
+### 5. Izometria projekcji
+Symetria północ–południe widoczna na mapie nie jest artefaktem, lecz
+cechą projekcji i struktury fizycznej. Izometria zachowuje relacje
+kształtów, dzięki czemu układ toroidalny jest wyraźnie widoczny.
