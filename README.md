@@ -1,4 +1,19 @@
-# astro-map
+# Astro Map
+
+Automatyczny system pobierania danych astronomicznych i analizy skrętu (Λ–τ–ρ).
+
+## Funkcje
+- Pobieranie danych z NASA (APOD)
+- Ładowanie lokalnych plików
+- Pipeline przetwarzania
+- Filtr skrętu (placeholder)
+
+## Struktura
+- data/raw — surowe dane
+- data/processed — dane po filtrach
+- loaders — moduły pobierające dane
+- twist — analiza skrętu
+
 # Mapa Astronomiczna — Interferencja 2MASS + ROSAT
 
 To repozytorium zawiera trzy kluczowe mapy astronomiczne:
