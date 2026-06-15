@@ -34,7 +34,7 @@ Interferencja 2MASS + ROSAT ujawnia:
 
 ## Licencja
 MIT
-![Mapa 2MASS](maps/2mass.png)
-![Mapa ROSAT](interfer.png)
+![Mapa 2MASS](interfer.png)
+![Mapa ROSAT](R.png)
 ![Mapa Interferencji](aR.png)
 
