@@ -1,25 +1,77 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>ASTRO-MAP – Interferencja 2MASS + ROSAT</title>
+<style>
+  body {
+    font-family: "Segoe UI", sans-serif;
+    background: #0d0d0d;
+    color: #e6e6e6;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: #1a1a1a;
+    padding: 25px;
+    text-align: center;
+    border-bottom: 2px solid #333;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 2.2em;
+    color: #6cf;
+  }
+  header p {
+    margin: 8px 0 0;
+    font-size: 1.1em;
+    color: #aaa;
+  }
+  section {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+  }
+  section h2 {
+    color: #6cf;
+    border-bottom: 1px solid #333;
+    padding-bottom: 6px;
+  }
+  p {
+    line-height: 1.6;
+    font-size: 1.05em;
+  }
+  img {
+    display: block;
+    margin: 25px auto;
+    max-width: 95%;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.6);
+  }
+  footer {
+    background: #1a1a1a;
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9em;
+    color: #888;
+    border-top: 2px solid #333;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>ASTRO-MAP</h1>
+  <p>Profil interferencji 2MASS + ROSAT – analiza struktury Galaktyki</p>
+</header>
+
 <section>
   <h2>Wizualizacja rzeczywistego profilu interferencji 2MASS + ROSAT</h2>
+
   <p>
-    Poniższy wykres pokazuje matematyczne odzwierciedlenie symetrii północ–południe
-    oraz punktu skrętu (struktury nieskończoności &infin;) opisanego na forum projektu astro-map.
+    Poniższy wykres przedstawia matematyczne odzwierciedlenie symetrii północ–południe
+    oraz punktu skrętu (struktury nieskończoności &infin;) opisanego w projekcie
+    <strong>astro-map</strong>.
   </p>
-  <p>
-    <strong>Przesunięcie w dół (oś Y wokół -2.0):</strong>
-    Wynika bezpośrednio z fizycznej różnicy gęstości tła podczerwieni (2MASS)
-    i energii X (ROSAT). System naturalnie dąży do ujemnej dywergencji, co potwierdza
-    stabilność struktury halo Galaktyki.
-  </p>
-  <p>
-    <strong>Strefa czerwona (płaty X):</strong>
-    Wychylenia w górę reprezentują emisję energii rentgenowskiej tworzącą tzw.
-    North/South bubbles (płaty energii nad i pod dyskiem).
-  </p>
-  <p>
-    <strong>Strefa zielona (kompresja):</strong>
-    Reprezentuje toroidalne zagęszczenie materii wokół jądra galaktycznego.
-    Model idealnie zbiega się i domyka w punkcie 720&deg;, co potwierdza matematyczną
-    poprawność hipotezy podwójnego domknięcia w sferze Poincar&eacute;go
-    dla tego zbioru danych.
-  </p>
-</section>
+
+  <img src="interference_profile.png" alt="Profil interferencji 2MASS + ROSAT">
