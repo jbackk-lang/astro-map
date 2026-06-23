@@ -1,3 +1,8 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+---
+
 # Astro‑Map — Koncepcyjna Mapa Struktury Informacji Astronomicznej
 
 Astro‑Map to projekt, który łączy dane astronomiczne z topologicznym językiem informacji (Λ–τ–ρ), tworząc symboliczne wizualizacje i struktury koncepcyjne. Projekt nie jest analizą naukową — traktuje dane jako nośniki informacji, rezonansu i skrętu pola.
